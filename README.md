@@ -1,10 +1,16 @@
-###MVC = Model View Controller
+## Projeto Calculadora Funcional com Data e hora - Curso Hcode
+<div align="center">
+<img height="80%" width="80%" src="https://i.imgur.com/sWJMprd.jpg">
+</div>
+
+### MVC = Model View Controller
 
  Model = Manipula os dados.
  View = Interface que o usuário interage.
  Controller = Define a regra de negócio.
 
-###O processo de ENCAPSULAMENTO controla o acesso a um atributo ou método (Os tipos comuns de encapsulamento são: PUBLIC, PROTECTED, PRIVATE.) 
+### O processo de ENCAPSULAMENTO 
+controla o acesso a um atributo ou método (Os tipos comuns de encapsulamento são: PUBLIC, PROTECTED, PRIVATE.) 
 public = todos acessam./ 
 protected = atributos e métodos da mesma classe e classe pai./
 private = Somente atributos e métodos da própria classe.
