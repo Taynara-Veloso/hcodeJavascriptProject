@@ -17,3 +17,5 @@ Estrutura = em que se baseia o documento HTML
 Usando o mouse,teclado ou outro criamos Eventos (Que são ações disparadas na aplicação)
 
 document.querySelector (seleciona Elementos = por meio de seletores CSS3)
+
+setInterval(função executada em um intervalo de tempo) o tempo é marcado em milisegundos.
