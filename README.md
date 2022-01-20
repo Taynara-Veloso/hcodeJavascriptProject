@@ -9,7 +9,8 @@
  View = Interface que o usuário interage.
  Controller = Define a regra de negócio.
 
-###O processo de ENCAPSULAMENTO controla o acesso a um atributo ou método (Os tipos comuns de encapsulamento são: PUBLIC, PROTECTED, PRIVATE.) 
+### O processo de ENCAPSULAMENTO 
+controla o acesso a um atributo ou método (Os tipos comuns de encapsulamento são: PUBLIC, PROTECTED, PRIVATE.) 
 public = todos acessam./ 
 protected = atributos e métodos da mesma classe e classe pai./
 private = Somente atributos e métodos da própria classe.
