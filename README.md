@@ -1,7 +1,9 @@
 ## Projeto Calculadora Funcional com Data e hora - Curso Hcode
+<div align="center">
 <img height="80%" width="80%" src="https://i.imgur.com/sWJMprd.jpg">
+</div>
 
-###MVC = Model View Controller
+### MVC = Model View Controller
 
  Model = Manipula os dados.
  View = Interface que o usuário interage.
